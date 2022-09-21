@@ -9,6 +9,7 @@
 - Week 3 Algorithms
 - - <a href="https://submit.cs50.io/check50/4f450d52645a8a80ff6c154d1531da8d7ecaad86">Lab3 Sort</a>, <a href="https://github.com/jrmagnus/cs50/blob/main/plurality.c">Pset3 Plurality</a>, <a href="https://github.com/jrmagnus/cs50/blob/main/tideman.c">Pset3 Tideman</a>
 - Week 4 Memory
+- - <a href="https://github.com/jrmagnus/cs50/blob/main/volume.c">Lab4 Volume</a>
 - Week 5 Data Structures
 - Week 6 Python
 - Week 7 SQL
