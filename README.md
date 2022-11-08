@@ -11,6 +11,7 @@
 - Week 4 Memory
 - - <a href="https://github.com/jrmagnus/cs50/blob/main/volume.c">Lab4 Volume</a>, <a href="https://github.com/jrmagnus/cs50/blob/main/helpers.c">Pset4 Filters More</a>, <a href="https://github.com/consxious/CS50-solution/blob/main/Week%204/recover.c">Pset4 recover by <a href="https://github.com/consxious">Consxious</a>
 - Week 5 Data Structures
+- - <a href="https://github.com/jrmagnus/cs50/blob/main/inheritance.c">Lab5 Inheritance</a>
 - Week 6 Python
 - Week 7 SQL
 - Week 8 HTML, CSS, JavaScript
